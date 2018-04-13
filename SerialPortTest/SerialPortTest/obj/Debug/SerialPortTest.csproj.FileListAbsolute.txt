@@ -1,0 +1,9 @@
+E:\VsProject\SerialPortTest\SerialPortTest\bin\Debug\SerialPortTest.exe.config
+E:\VsProject\SerialPortTest\SerialPortTest\bin\Debug\SerialPortTest.exe
+E:\VsProject\SerialPortTest\SerialPortTest\bin\Debug\SerialPortTest.pdb
+E:\VsProject\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.csprojResolveAssemblyReference.cache
+E:\VsProject\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.Form1.resources
+E:\VsProject\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.Properties.Resources.resources
+E:\VsProject\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.csproj.GenerateResource.Cache
+E:\VsProject\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.exe
+E:\VsProject\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.pdb

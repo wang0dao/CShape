@@ -1,0 +1,9 @@
+E:\VsProject\WebServiceTest\WebServiceTest\bin\Debug\WebServiceTest.exe.config
+E:\VsProject\WebServiceTest\WebServiceTest\bin\Debug\WebServiceTest.exe
+E:\VsProject\WebServiceTest\WebServiceTest\bin\Debug\WebServiceTest.pdb
+E:\VsProject\WebServiceTest\WebServiceTest\obj\Debug\WebServiceTest.csprojResolveAssemblyReference.cache
+E:\VsProject\WebServiceTest\WebServiceTest\obj\Debug\WebServiceTest.Form1.resources
+E:\VsProject\WebServiceTest\WebServiceTest\obj\Debug\WebServiceTest.Properties.Resources.resources
+E:\VsProject\WebServiceTest\WebServiceTest\obj\Debug\WebServiceTest.csproj.GenerateResource.Cache
+E:\VsProject\WebServiceTest\WebServiceTest\obj\Debug\WebServiceTest.exe
+E:\VsProject\WebServiceTest\WebServiceTest\obj\Debug\WebServiceTest.pdb

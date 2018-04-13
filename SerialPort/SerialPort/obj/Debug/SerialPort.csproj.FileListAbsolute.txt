@@ -1,0 +1,1 @@
+E:\VsProject\SerialPort\SerialPort\bin\Debug\SerialPort.exe.config
